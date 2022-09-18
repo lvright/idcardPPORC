@@ -1,0 +1,1 @@
+<view class="content"><view><image class="logo" src="/static/card.png"></image></view><view class="text-area"><text class="title">疫情隔离人员身份证识别程序</text></view><button class="btn" type="submit" data-event-opts="{{[['tap',[['camera',['$event']]]]]}}" bindtap="__e">打开识别</button><button class="btn down-file-btn" type="submit">下载隔离人员信息表</button></view>
